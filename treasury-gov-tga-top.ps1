@@ -1,5 +1,5 @@
 ﻿
-Param($date)
+Param($06/16/2023)
 
 function get-previous-weekday ()
 {
